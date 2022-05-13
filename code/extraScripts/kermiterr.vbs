@@ -1,0 +1,5 @@
+fvbsX
+fvbsXx=msgbox("HAIL KERMIT", 0+48, "HAIL KERMIT")
+fvbsXx=msgbox("HAIL OUR LORD AND SAVIOUR KERMIT", 0+48, "HAIL KERMIT")
+fvbsXx=msgbox("HAIL KERMIT", 0+48, "HAIL KERMIT")
+fvbsXx=msgbox("HAIL OUR LORD KERMIT", 0+48, "HAIL KERMIT")
